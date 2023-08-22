@@ -1,0 +1,30 @@
+* Commissar Cleo Mod
+
+This is a fun mod that gives Cleopatra all the "positive" traits of
+other civs and leaders.
+
+* Install
+
+Copy the "CommissarCleoMod" directory to
+"Documents/My Games/Sid Meier's Civilization VI/Mods/"
+
+Create the parent directories if you have to (you shouldn't).
+
+* Credits
+
+The mod is based on the following mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2605141926
+
+
+It was built using the Firaxis ModBuddy. The source directory is
+"CommissarCleo", you should be able to launch the project with
+ModBuddy using the supplide *.civ6proj file.
+
+I found the following resource a good place to start:
+https://steamcommunity.com/sharedfiles/filedetails/?id=888669713
+
+
+* Modifications
+
+You should be able to edit the ./CommisarCleo/traits.sql to fit any
+leader without ModBuddy.
